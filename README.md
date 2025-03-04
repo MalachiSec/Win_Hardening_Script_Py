@@ -1,5 +1,5 @@
 <p align="center">
-![Screenshot 2025-03-04 054850](https://github.com/MalachiSec/Win_Hardening_Script_Py/blob/7d0955e8a38cc5ba83a4ae4ee478400aadf6a406/Screenshot%202025-03-04%20054850.png)
+<img src="https://github.com/MalachiSec/Win_Hardening_Script_Py/blob/284e625406735644b86054ff93f30eb1f3cabfb2/Screenshot%202025-03-04%20054850.png"/>
 </p>
 
 # Windows System Hardening Checker 
