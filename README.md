@@ -1,9 +1,8 @@
-# Windows System Hardening Checker
 <p align="center">
-<img src="https://imgur.com/a/9A4hf7u" alt="https://imgur.com/a/9A4hf7u"/>
+![Screenshot 2025-03-04 054850](https://github.com/MalachiSec/Win_Hardening_Script_Py/blob/7d0955e8a38cc5ba83a4ae4ee478400aadf6a406/Screenshot%202025-03-04%20054850.png)
 </p>
 
-![Screenshot 2025-03-04 054850](https://github.com/MalachiSec/Win_Hardening_Script_Py/blob/7d0955e8a38cc5ba83a4ae4ee478400aadf6a406/Screenshot%202025-03-04%20054850.png)
+# Windows System Hardening Checker 
 
 This Python script helps you check and secure key security settings on your Windows system. The tool performs several checks related to system hardening and security:
 
